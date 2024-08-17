@@ -3,9 +3,6 @@
 ![Logotipo Getrap](/src/logo.png) 
 </div>
 
- 
-
-
 # Getrap Escolar
 Projeto interdisciplinar
 
