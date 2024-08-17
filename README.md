@@ -1,7 +1,7 @@
-<div style="width:300px; margin: auto;">
-
-![Logotipo Getrap](/src/logo.png) 
-</div>
+<img src="https://raw.githubusercontent.com/plaxdone/getrap.br/main/src/logo.png" 
+        alt="Logotipo Getrap" 
+        width="400" 
+ />
 
 # Getrap Escolar
 Projeto interdisciplinar
