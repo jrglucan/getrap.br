@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/plaxdone/getrap.br/main/src/logo.png" 
-        alt="Logo" 
-        width="300" 
-        style="display: block; margin: 0 auto" />
+![Logotipo Getrap](/src/logo.png)
 
 
 # Getrap Escolar
