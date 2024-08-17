@@ -1,14 +1,18 @@
-<img src="https://raw.githubusercontent.com/plaxdone/getrap.br/main/src/logo.png" 
-        alt="Logo" 
-        width="300" 
-        style="display: block; margin: 0 auto" />
+<div style="width:300px; margin: auto;">
+
+![Logotipo Getrap](/src/logo.png) 
+</div>
+
+ 
 
 
 # Getrap Escolar
 Projeto interdisciplinar
+
 Gestão da Tecnologia da Informação IFPR - Campus Pinhais
 ## Equipe
 Jorge Luciano
+
 Wilian Lopes
 ## Descrição
 Getrap (Gerenciamento de transportes) é um projeto que visa informatizar e agilizar os processos utilizados por empresas de transportes.
