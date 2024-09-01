@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/jrglucan/getrap.br/main/src/logo.png?token=GHSAT0AAAAAACWHK3COHPAPMTC4ZFKUYD5EZWA4V7Q" 
+<img src="src/logo.png" 
         alt="Logotipo Getrap" 
         width="400" 
  />
