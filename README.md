@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/plaxdone/getrap.br/main/src/logo.png" 
+<img src="https://raw.githubusercontent.com/jrglucan/getrap.br/main/src/logo.png?token=GHSAT0AAAAAACWHK3COHPAPMTC4ZFKUYD5EZWA4V7Q" 
         alt="Logotipo Getrap" 
         width="400" 
  />
