@@ -27,19 +27,19 @@ Com esses dados identificados, propomos criar um aplicativo que atenda a essa de
 
 ## Protótipo
 
-[> Link](
+[Link](
 https://app.quant-ux.com/#/test.html?h=a2aa10aBXpQzYZq5bPyCRBEf7fZru5CqexXgqWQftVbnOdzJSQb7cc3bGnyG&ln=en)
 
 #### Usuários
 
-admin@getrap.br - Acesso completo ao app
+admi<span>n@getr</span>ap.br - Acesso completo ao app
 
-responsavel@getrap.br - Acesso à visão de pai/responsável
+responsavel<span>@getr</span>ap.br - Acesso à visão de pai/responsável
 
-motorista@getrap.br - Acesso à visão motorista
+motorista<span>@getr</span>ap.br - Acesso à visão motorista
 
 
 ## Contato
-Instagram: https://www.instagram.com/getrap.br
+[Instagram](https://www.instagram.com/getrap.br)
 
-Email: getrap.br@gmail.com
+[Email](getrap.br@gmail.com)
